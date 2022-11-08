@@ -1,0 +1,134 @@
+﻿Ligand,Affinity I (nM),"Kd, Ki, or IC50",organisem,type,organisem+type,Class,SMILES,#C,#N,#O,#=,O start,O end,N start,N end,O/N start or end,Mw (no hydrogens),data,classify
+Nω-Hydroxylysine,11000,IC50,Bovine,arginase I,Bovine liver arginase,Good binder,ONCCCCC(N)C(=O)O,6,2,3,1,1,1,0,0,2,148,"6,2,3,1,2,148",1
+Indole-3-propionic,2800000,IC50,Bovine,arginase I,Bovine liver arginase,Medium binder,C1=CC=C2C(=C1)C(=CN2)CCC(=O)O,11,1,2,5,0,1,0,0,1,178,"11,1,2,5,1,178",2
+Tryptamine,3200000,IC50,Bovine,arginase I,Bovine liver arginase,Medium binder,C1=CC=C2C(=C1)C(=CN2)CCN,10,2,0,4,0,0,0,1,1,148,"10,2,0,4,1,148",2
+Indole-3-L-lactic,3400000,IC50,Bovine,arginase I,Bovine liver arginase,Medium binder,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)O,11,1,3,5,0,1,0,0,1,194,"11,1,3,5,1,194",2
+5-Hydroxy-L-tryptophane,3900000,IC50,Bovine,arginase I,Bovine liver arginase,Medium binder,O=C(O)[C@@H](N)Cc2c1cc(O)ccc1[nH]c2,11,1,3,5,1,0,0,0,1,194,"11,1,3,5,1,194",2
+L-Tryptophol,5300000,IC50,Bovine,arginase I,Bovine liver arginase,Medium binder,C1=CC=C2C(=C1)C(=CN2)CCO,10,1,1,4,0,1,0,0,1,150,"10,1,1,4,1,150",2
+L-Tryptophane,8400000,IC50,Bovine,arginase I,Bovine liver arginase,Medium binder,c1[nH]c2ccccc2c1C[C@H](N)C(=O)O,11,1,2,5,0,1,0,0,1,178,"11,1,2,5,1,178",2
+D-Tryptophane,100000000,IC50,Bovine,arginase I,Bovine liver arginase,Weak binder,c1[nH]c2ccccc2c1C[C@@H](N)C(=O)O,11,1,2,5,0,1,0,0,1,178,"11,1,2,5,1,178",3
+L-Valine,6200000,IC50,Rat,arginase I,Rat liver arginase,Medium binder,CC(C)[C@@H](C(=O)O)N,5,1,2,1,0,0,0,1,1,106,"5,1,2,1,1,106",2
+Dinor-arginine,550000000,Ki,Human ,arginase I,Human arginase I,Weak binder,C(C(C(=O)O)N)N=C(N)N  ,4,4,2,2,0,0,0,0,0,136,"4,4,2,2,0,136",3
+L-Ornithine,10200000,Ki,Bovine,arginase I,Bovine liver arginase,Weak binder,C(C[C@@H](C(=O)O)N)CN,5,2,2,1,0,0,0,1,1,120,"5,2,2,1,1,120",3
+L-Lysine,15300000,Ki,Bovine,arginase I,Bovine liver arginase,Weak binder,C(CCN)C[C@@H](C(=O)O)N,6,2,2,1,0,0,0,1,1,132,"6,2,2,1,1,132",3
+"2,4-Diaminobutyric acid ",8700000,Ki,Bovine,arginase I,Bovine liver arginase,Medium binder,C(CN)C(C(=O)O)N,4,2,2,1,0,0,0,1,1,108,"4,2,2,1,1,108",2
+"2,3-Diaminopropionic acid ",16400000,Ki,Bovine,arginase I,Bovine liver arginase,Weak binder,C(C(C(=O)O)N)N,3,2,2,1,0,0,0,1,1,96,"3,2,2,1,1,96",3
+Ng-Nitro-L-arginine ,27200000,IC50,rat,arginase I,Rat liver arginase,Weak binder,C(C[C@@H](C(=O)O)N)CN=C(N)N[N+](=O)[O-],6,5,4,3,0,0,0,0,0,206,"6,5,4,3,0,206",3
+Ng-Nitro-L-arginine ,60000000,Ki,Human ,arginase II ,Human arginase II ,Weak binder,C(C[C@@H](C(=O)O)N)CN=C(N)N[N+](=O)[O-],6,5,4,3,0,0,0,0,0,206,"6,5,4,3,0,206",3
+NG-Nitro-L-arginine methyl ester(NAME),IC50 > 20000000,IC50,rat,arginase I,Rat liver arginase,Weak binder,COC(=O)[C@H](CCCN=C(N)N[N+](=O)[O-])N,7,5,4,3,0,0,0,1,1,218,"7,5,4,3,1,218",3
+NG-Nitro-L-arginine methyl ester(NAME),20000000,Ki,Bovine,,Purified bovine arginase,Weak binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",3
+NOHA (3),3600,Kd,Human ,arginase I,Human arginase I,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),16000,Ki,Human ,arginase II,Human arginase II,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),10000,Ki,rat,arginase I,Rat liver arginase ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),20000,IC50 ,rat,arginase I,Rat liver arginase ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),150000,Ki,bovine,arginase I,Bovine liver arginase,Medium binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",2
+NOHA (3),70000,IC50 ,bovine,arginase I,Bovine liver arginase,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),15000,IC50 ,rabbit,alveolar macrophage,Rabbit alveolar Macrophage ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),41000,IC50 ,rabbit,alveolar macrophage,Rabbit alveolar Macrophage ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA (3),450000,IC50 ,mouse,macrophage,Mouse macrophage,Medium binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",2
+Homo-hydroxyarginine ,200000,IC50 ,rat,arginase I,Rat liver arginase,Medium binder,C(CCN=C(N)NO)C[C@@H](C(=O)O)N,7,4,3,2,0,0,0,1,1,188,"7,4,3,2,1,188",2
+Nor-NOHA(21),517,Kd ,Human ,arginase I,Human arginase I,Good binder,C(CN=C(N)NO)[C@@H](C(=O)O)N,5,4,3,2,0,0,0,1,1,164,"5,4,3,2,1,164",1
+Nor-NOHA(21),51,Ki,Human ,arginase II,Human arginase II ,Good binder,C(CN=C(N)NO)[C@@H](C(=O)O)N,5,4,3,2,0,0,0,1,1,164,"5,4,3,2,1,164",1
+Nor-NOHA(21),500,Ki,rat,arginase I,Rat liver arginase,Good binder,C(CN=C(N)NO)[C@@H](C(=O)O)N,5,4,3,2,0,0,0,1,1,164,"5,4,3,2,1,164",1
+Nor-NOHA(21),800,IC50 ,rat,arginase I,Rat liver arginase,Good binder,C(CN=C(N)NO)[C@@H](C(=O)O)N,5,4,3,2,0,0,0,1,1,164,"5,4,3,2,1,164",1
+Nor-NOHA(21),1500,IC50 ,rat,arginase I,Rat liver arginase,Good binder,C(CN=C(N)NO)[C@@H](C(=O)O)N,5,4,3,2,0,0,0,1,1,164,"5,4,3,2,1,164",1
+Nor-NOHA(21),50000,IC50 ,mouse,macrophage,Mouse macrophage ,Good binder,C(CN=C(N)NO)[C@@H](C(=O)O)N,5,4,3,2,0,0,0,1,1,164,"5,4,3,2,1,164",1
+Dinor-NOHA(22),40000,IC50 ,rat,arginase I,Rat liver arginase,Good binder, C([C@@H](C(=O)O)N)N=C(N)NO  ,4,4,3,2,0,0,0,0,0,152,"4,4,3,2,0,152",1
+Descarboxy-nor-NOHA(23) without co2h,300000,IC50 ,rat,arginase I,Rat liver arginase ,Medium binder,C(CN)CN=C(N)NO,4,4,1,1,0,1,0,0,1,120,"4,4,1,1,1,120",2
+Desamino-nor-NOHA(24) without nh2,> 500000,IC50 ,rat,arginase I,Rat liver arginase ,Weak binder,C(CC(=O)O)CN=C(N)NO,5,3,3,2,0,1,0,0,1,150,"5,3,3,2,1,150",3
+"4-Hydroxyamindino-D,L-phenylalanine ",230000,IC50 ,Bovine,arginase I,Bovine liver arginase ,Medium binder,C1=CC(=CC=C1CC(C(=O)O)N)/C(=N\O)/N  ,10,3,3,5,0,0,0,0,0,210,"10,3,3,5,0,210",2
+Nω-Hydroxyindospicine ,50000,IC50 ,Bovine,arginase I,Bovine liver arginase,Good binder,C(CCC(=N)N)C[C@@H](C(=O)O)N ,7,3,2,2,0,0,0,0,0,158,"7,3,2,2,0,158",1
+Nω-Hydroxyindospicine ,2000,IC50 ,Rabbit,alveolar macrophage ,Rabbit alveolar macrophage ,Good binder,C(CCC(=N)N)C[C@@H](C(=O)O)N ,7,3,2,2,0,0,0,0,0,158,"7,3,2,2,0,158",1
+Nω-Hydroxyindospicine ,5000,IC50 ,rat,arginase I,Rat liver ,Good binder,C(CCC(=N)N)C[C@@H](C(=O)O)N ,7,3,2,2,0,0,0,0,0,158,"7,3,2,2,0,158",1
+Nω-Hydroxy-nor-indospicine ,2000,IC50 ,rat,arginase I,Rat liver ,Good binder,C(C[C@@H](C(=O)O)N)CC(=N)N  ,6,3,2,2,0,0,0,0,0,146,"6,3,2,2,0,146",1
+2(S)-Amino-6-boronohexanoic acid(ABH),800,IC50 ,rat,arginase I,Rat liver arginase ,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+ABH(39),18,Ki ,Opossum,brain arginase,Opossum brain arginase ,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+ABH(39),26,Ki ,Opossum,rectum arginase ,Opossum rectum arginase ,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+ABH(39),50,Ki ,Opossum,internal anal sphincter arginase,Opossum internal anal sphincter arginase,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+ABH(39),190,Ki ,Opossum,arginase I,Opossum liver arginase ,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+N-Hydroxy-L-arginine(NOHA),80000,IC50 ,rat,arginase I,Rat liver arginase ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA(3),4000,Ki ,Opossum,brain arginase,Opossum brain arginase ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA(3),42000,Ki ,Opossum,rectum arginase ,Opossum rectum arginase ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA(3),25000,Ki ,Opossum,internal anal sphincter arginase,Opossum internal anal sphincter arginase,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+NOHA(3),2400,Ki ,Opossum,arginase I,Opossum liver arginase ,Good binder,C(C[C@@H](C(=O)O)N)CN=C(N)NO  ,6,4,3,2,0,0,0,0,0,176,"6,4,3,2,0,176",1
+S-(2-Boronoethyl)-L-cysteine(BEC),0.4–0.6 μM ,Ki ,rat,arginase I,Rat liver arginase ,Weak binder,B(CCSC[C@@H](C(=O)O)N)(O)O,5,1,4,1,0,1,0,0,1,138,"5,1,4,1,1,138",3
+ABH(39),1450,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+ABH(39),1920,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCC[C@@H](C(=O)O)N)(O)O,6,1,4,1,0,1,0,0,1,150,"6,1,4,1,1,150",1
+41,520,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCC[C@@](CCN(CC)CC)(C(=O)O)N)(O)O,12,2,4,1,0,1,0,0,1,236,"12,2,4,1,1,236",1
+41,934,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCC[C@@](CCN(CC)CC)(C(=O)O)N)(O)O,12,2,4,1,0,1,0,0,1,236,"12,2,4,1,1,236",1
+42,370,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCC[C@@](CCN1CCC(CC1)O)(C(=O)O)N)(O)O,13,2,5,1,0,1,0,0,1,264,"13,2,5,1,1,264",1
+42,980,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCC[C@@](CCN1CCC(CC1)O)(C(=O)O)N)(O)O,13,2,5,1,0,1,0,0,1,264,"13,2,5,1,1,264",1
+43,320,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCC[C@@](CCN1CCCC1)(C(=O)O)N)(O)O ,12,2,4,1,0,0,0,0,0,236,"12,2,4,1,0,236",1
+43,620,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCC[C@@](CCN1CCCC1)(C(=O)O)N)(O)O ,12,2,4,1,0,0,0,0,0,236,"12,2,4,1,0,236",1
+44,223,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCC[C@@](CCN1CCCCC1)(C(=O)O)N)(O)O,13,2,4,1,0,1,0,0,1,248,"13,2,4,1,1,248",1
+44,509,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCC[C@@](CCN1CCCCC1)(C(=O)O)N)(O)O,13,2,4,1,0,1,0,0,1,248,"13,2,4,1,1,248",1
+45,140,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCC[C@@](CCN(C)CCC)(C(=O)O)N)(O)O ,12,2,4,1,0,0,0,0,0,236,"12,2,4,1,0,236",1
+45,320,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCC[C@@](CCN(C)CCC)(C(=O)O)N)(O)O ,12,2,4,1,0,0,0,0,0,236,"12,2,4,1,0,236",1
+46,100,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,CC(C)N(C)CC[C@](N)(CCCCB(O)O)C(=O)O,12,2,4,1,0,1,0,0,1,236,"12,2,4,1,1,236",1
+46,190,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,CC(C)N(C)CC[C@](N)(CCCCB(O)O)C(=O)O,12,2,4,1,0,1,0,0,1,236,"12,2,4,1,1,236",1
+47,380,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,N[C@@](CCCCB(O)O)(C(=O)O)C1CCNCC1,11,2,4,1,0,0,1,0,1,224,"11,2,4,1,1,224",1
+47,640,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,N[C@@](CCCCB(O)O)(C(=O)O)C1CCNCC1,11,2,4,1,0,0,1,0,1,224,"11,2,4,1,1,224",1
+48,190,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCCC(C1CCN(CC1)CC2=CC=C(C=C2)Cl)(C(=O)O)N)(O)O,19,2,4,4,0,1,0,0,1,320,"19,2,4,4,1,320",1
+48,240,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCCC(C1CCN(CC1)CC2=CC=C(C=C2)Cl)(C(=O)O)N)(O)O,19,2,4,4,0,1,0,0,1,320,"19,2,4,4,1,320",1
+49,200,IC50 ,Human ,arginase I,Human Arginase I ,Good binder, B(CCCCC(C1CCN(CC1)CC2=CC(=C(C=C2)Cl)Cl)(C(=O)O)N)(O)O  ,20,2,4,4,0,0,0,0,0,332,"20,2,4,4,0,332",1
+49,290,IC50 ,Human ,arginase II,Human Arginase II ,Good binder, B(CCCCC(C1CCN(CC1)CC2=CC(=C(C=C2)Cl)Cl)(C(=O)O)N)(O)O  ,20,2,4,4,0,0,0,0,0,332,"20,2,4,4,0,332",1
+50,80,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCCC(C1CC2CCC(C1)N2)(C(=O)O)N)(O)O ,13,2,4,1,0,0,0,0,0,248,"13,2,4,1,0,248",1
+50,85,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCCC(C1CC2CCC(C1)N2)(C(=O)O)N)(O)O ,13,2,4,1,0,0,0,0,0,248,"13,2,4,1,0,248",1
+51,24,IC50 ,Human ,arginase I,Human Arginase I ,Good binder, B(CCCCC(C1CC2CCC(C1)N2CC3=CC=CC=C3)(C(=O)O)N)(O)O ,20,2,4,4,0,0,0,0,0,332,"20,2,4,4,0,332",1
+51,47,IC50 ,Human ,arginase II,Human Arginase II ,Good binder, B(CCCCC(C1CC2CCC(C1)N2CC3=CC=CC=C3)(C(=O)O)N)(O)O ,20,2,4,4,0,0,0,0,0,332,"20,2,4,4,0,332",1
+52,17,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCCC(C1CC2CCC(C1)N2CC3=CC=C(C=C3)Cl)(C(=O)O)N)(O)O  ,21,2,4,4,0,0,0,0,0,344,"21,2,4,4,0,344",1
+52,30,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCCC(C1CC2CCC(C1)N2CC3=CC=C(C=C3)Cl)(C(=O)O)N)(O)O  ,21,2,4,4,0,0,0,0,0,344,"21,2,4,4,0,344",1
+53,21,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCCC(C1CC2CCC(C1)N2CC3=CC(=C(C=C3)Cl)Cl)(C(=O)O)N)(O)O,22,2,4,4,0,1,0,0,1,356,"22,2,4,4,1,356",1
+53,23,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCCC(C1CC2CCC(C1)N2CC3=CC(=C(C=C3)Cl)Cl)(C(=O)O)N)(O)O,22,2,4,4,0,1,0,0,1,356,"22,2,4,4,1,356",1
+54,22,IC50 ,Human ,arginase I,Human Arginase I ,Good binder,B(CCCCC(C1CC2CCC(C1)N2CC3=CC(=C(C=C3)F)F)(C(=O)O)N)(O)O  ,20,2,4,4,0,0,0,0,0,332,"20,2,4,4,0,332",1
+54,33,IC50 ,Human ,arginase II,Human Arginase II ,Good binder,B(CCCCC(C1CC2CCC(C1)N2CC3=CC(=C(C=C3)F)F)(C(=O)O)N)(O)O  ,20,2,4,4,0,0,0,0,0,332,"20,2,4,4,0,332",1
+ash(55),67000,ki,Human ,arginase II,Human Arginase II ,Good binder,NC(CCCCS(N)(=O)=O)C(=O)O,6,2,4,3,0,1,1,0,2,164,"6,2,4,3,2,164",1
+ash(55),90000,ki,rat ,arginase I  ,rat arginase I,Good binder,NC(CCCCS(N)(=O)=O)C(=O)O,6,2,4,3,0,1,1,0,2,164,"6,2,4,3,2,164",1
+sec(56),52000,kd,rat,arginase I,rat arginase I,Good binder,NC(CSCCS(N)(=O)=O)C(=O)O,5,2,4,3,0,1,1,0,2,152,"5,2,4,3,2,152",1
+aip(57),4000,ki,Human ,arginase I,Human Arginase I ,Good binder,C1=CN(C(=N1)N)CCCC(C(=O)O)N,8,4,2,3,0,0,0,1,1,184,"8,4,2,3,1,184",1
+anh(58),60000,kd,Human ,arginase I,Human Arginase I ,Good binder,ON(=O)CCCC(C(=O)O)N,5,2,4,2,1,0,0,1,2,152,"5,2,4,2,2,152",1
+aoh(59),60000,ki,rat,arginase I,rat arginase I,Good binder,CC1=CC(=CC2=C1C3=C(C(=CC(=C3)O)O)C(=O)O2)O,14,0,5,7,0,1,0,0,1,248,"14,0,5,7,1,248",1
+a(61),>100000,kd,Human,arginase I,Human Arginase I ,Weak binder,C(=S)(N)NN ,1,3,0,1,0,0,0,1,1,54,"1,3,0,1,1,54",3
+"Myricetin (62, 5281672)",2100,ki,Leishmania amazonensis,,,Good binder,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,15,0,8,8,0,1,0,0,1,308,"15,0,8,8,1,308",1
+"Quercetin (63, 5280343)",4000,ki,,arginase I,Leishmania (Leishmania) amazonensis and Rat Arginases ,Good binder,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O ,15,0,7,8,0,1,0,0,1,292,"15,0,7,8,1,292",1
+"Kaempferol (64, 5280863)",50000,ic50,Leishmania amazonensis,,particular arginase (ARG) from Leishmania amazonensis,Good binder,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,15,0,6,8,0,1,0,0,1,276,"15,0,6,8,1,276",1
+"Galangin (65, 5281616)",100000,ic50,,,particular arginase (ARG) from Leishmania amazonensis,Weak binder,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O ,15,0,5,8,0,1,0,0,1,260,"15,0,5,8,1,260",3
+"Fisetin (66, 5281614)",1900,ki,,,particular arginase (ARG) from Leishmania amazonensis,Good binder,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O  ,15,0,6,8,0,1,0,0,1,276,"15,0,6,8,1,276",1
+"Luteolin (67, 5280445)",9000,ki,,,particular arginase (ARG) from Leishmania amazonensis,Good binder,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,15,0,6,8,0,1,0,0,1,276,"15,0,6,8,1,276",1
+"(+)-Catechin (68, 73160)",1700,ki,,,,Good binder,C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,15,0,6,6,0,1,0,0,1,276,"15,0,6,6,1,276",1
+"(-)-Epicatechin (69, 72276)",1600,ic50,Human,,arginase of human endothelial cell lysate,Good binder,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O ,15,0,6,6,0,1,0,0,1,276,"15,0,6,6,1,276",1
+"(-)-Epigallocatechin-3-gallate
+(70, 65064)",3800,ic50,,,,Good binder,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O ,22,0,11,10,0,1,0,0,1,440,"22,0,11,10,1,440",1
+"Quercitrin (71, 5280459)",12200,ic50,,,,Good binder,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O,21,0,11,8,0,1,0,0,1,428,"21,0,11,8,1,428",1
+"Isoquercitrin (72, 5280804)",2650,ki,Cecropia pachystachya,,,Good binder,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,21,0,12,8,0,1,0,0,1,444,"21,0,12,8,1,444",1
+"Myricitrin (73, 5281673)",2400,ic50,Leishmania amazonensis,,,Good binder,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O ,21,0,12,8,0,1,0,0,1,444,"21,0,12,8,1,444",1
+"Orientin (74, 5281675)",24000,ki,Leishmania amazonensis,,particular arginase (ARG) from Leishmania amazonensis,Good binder,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,21,0,11,8,0,1,0,0,1,428,"21,0,11,8,1,428",1
+"Isoorientin (75, 114776)",22000,ki,Leishmania amazonensis,,particular arginase (ARG) from Leishmania amazonensis,Good binder,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,21,0,11,8,0,1,0,0,1,428,"21,0,11,8,1,428",1
+"Peracetylquercetin (76, 14005)",120000,ic50,Leishmania amazonensis,,,Medium binder,CC(=O)OC1=C(C=C(C=C1)C2=C(C(=O)C3=C(O2)C=C(C=C3OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,25,0,12,13,0,0,0,0,0,492,"25,0,12,13,0,492",2
+"Peracetylcatechin (77, 5317058)",4800,ic50,Leishmania amazonensis,,,Good binder,CC(=O)O[C@@H]1CC2=C(C=C(C=C2OC(=O)C)OC(=O)C)O[C@@H]1C3=CC(=C(C=C3)OC(=O)C)OC(=O)C,25,0,11,11,0,0,0,0,0,476,"25,0,11,11,0,476",1
+"Triacetylcatechin (78,
+78427440)",900,ki,Leishmania amazonensis,,,Good binder,CC(=O)O[C@@H]1CC2=C(C=C(C=C2OC(=O)C)OC(=O)C)OC1C3=CC(=C(C=C3)O)O,21,0,9,9,0,1,0,0,1,396,"21,0,9,9,1,396",1
+Triacetylcatechin (79),25100,ic50,Mouse,arginase II,Mouse arginase II inhibitory activity,Good binder,O=C2CC(c1ccccc1O[me])Oc3c(O[me])c(O)cc(O)c23,15,0,6,7,1,0,0,0,1,276,"15,0,6,7,1,276",1
+Triacetylcatechin (80),11600,ic50,Mouse,arginase II,Mouse arginase II inhibitory activity,Good binder,O=C2CC(c1cc(O)ccc1O)Oc3c(O[me])c(O[me])cc(O)c23,15,0,7,7,1,0,0,0,1,292,"15,0,7,7,1,292",1
+"Gallic acid (81, 370)",2200,ic50,Leishmania arginase,,,Good binder,C1=C(C=C(C(=C1O)O)O)C(=O)O ,7,0,5,4,0,1,0,0,1,164,"7,0,5,4,1,164",1
+"Chlorogenic acid (83, 442988)",440,ic50,Leishmania arginase,,,Good binder,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)O)O,14,0,10,5,0,1,0,0,1,328,"14,0,10,5,1,328",1
+Chlorogenic acid (84),490,ic50,Leishmania arginase,,,Good binder,O=C(O)[C@]2(O)C[C@@H](O)[C@@H](O)[C@H](OC(=O)c1cc(O)c(O)c(O[me])c1)C2,14,0,10,5,1,0,0,0,1,328,"14,0,10,5,1,328",1
+"Chlorogenic acid (85, 460896)",460,ic50,Leishmania arginase,,,Good binder,C1[C@H](C([C@@H](CC1(C(=O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)O)OC(=O)C3=CC(=C(C(=C3)O)O)O,21,0,14,9,0,1,0,0,1,476,"21,0,14,9,1,476",1
+"Chlorogenic acid (86, 127406)",310,ic50,Leishmania arginase,,,Good binder,C1[C@H](C([C@@H](CC1(C(=O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O  ,28,0,18,13,0,1,0,0,1,624,"28,0,18,13,1,624",1
+"Verbacoside (91, 5281800)",700,ki,Leishmania arginase,,,Good binder,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,29,0,15,8,0,1,0,0,1,588,"29,0,15,8,1,588",1
+"Piceatannol-3
+-O-β-Dglucopyranoside (87,
+11968990)",11220,ic50,Murine liver lysate,arginase I,Murine liver lysate arginase I,Good binder,C1=CC(=C(C=C1/C=C/C2=CC(=CC(=C2)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O,20,0,9,7,0,1,0,0,1,384,"20,0,9,7,1,384",1
+"Piceatannol-3
+-O-β-Dglucopyranoside (87,
+11968990)",11060,ic50,Murine kidney lysate,arginase II,Murine kidney lysate arginase II,Good binder,C1=CC(=C(C=C1/C=C/C2=CC(=CC(=C2)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O,20,0,9,7,0,1,0,0,1,384,"20,0,9,7,1,384",1
+Sauchinone,61400,ic50,Murine kidney lysate,arginase II,Murine kidney lysate arginase II,Good binder,C[C@@H]1C[C@@H]2[C@H]3[C@@H]([C@H]1C)C4=CC5=C(C=C4O[C@@]36C(=CC2=O)OCO6)OCO5,20,0,6,5,0,0,0,0,0,336,"20,0,6,5,0,336",1
+7β-Hydroxysauchinone (89),89600,ic50,Murine kidney lysate,arginase II,Murine kidney lysate arginase II,Good binder,C[C@@H]4C[C@H]5C(=O)C=C1OCO[C@]16Oc3cc2OCOc2cc3[C@@](O)([C@H]4C)[C@H]56,20,0,7,5,0,0,0,0,0,352,"20,0,7,5,0,352",1
+Inosine (93),40000,ki,Bovine,arginase I,Bovine liver arginase ,Good binder,C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O,10,4,5,4,0,1,0,0,1,256,"10,4,5,4,1,256",1
+Adenosine (94),30000,ki,Bovine,arginase I,Bovine liver arginase ,Good binder,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N,10,5,4,4,0,0,0,1,1,254,"10,5,4,4,1,254",1
+Adenine (95),14000,ki,Bovine,arginase I,Bovine liver arginase ,Good binder,C1=NC2=NC=NC(=C2N1)N,5,5,0,4,0,0,0,1,1,130,"5,5,0,4,1,130",1
+Uric acid (96),9000,ki,Bovine,arginase I,Bovine liver arginase ,Good binder,C12=C(NC(=O)N1)NC(=O)NC2=O ,5,4,3,4,0,1,0,0,1,164,"5,4,3,4,1,164",1
+Cytosine (97),9000,ki,Bovine,arginase I,Bovine liver arginase ,Good binder,C1=C(NC(=O)N=C1)N ,4,3,1,3,0,0,0,1,1,106,"4,3,1,3,1,106",1
+Cytidine (98),5000,ki,Bovine,arginase I,Bovine liver arginase ,Good binder,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,9,3,5,3,0,1,0,0,1,230,"9,3,5,3,1,230",1
+c(99),17000,ki,Leishmania,,,Good binder,Cc2cc(NNC(N)=S)n1nc(C(F)(F)F)nc1c2,9,3,0,4,0,0,0,0,0,150,"9,3,0,4,0,150",1
+Chloroquine (100),77000,ic50,Human sickle erythrocyte arginase,,,Good binder,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl  ,19,3,0,5,0,0,0,0,0,270,"19,3,0,5,0,270",1
